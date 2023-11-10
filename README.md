@@ -1,4 +1,4 @@
-# elliotsmoon.github.io
+# ~ elliotsmoon.net ~
 Main Page for elliotsmoon.net
 
 I'm a big believer in Free Open Sourced Software (FOSS). Though this is not software, nor is there a paid/free version of my site, I still wanted to give the source code that runs my site to be shown to the web!
